@@ -1,3 +1,3 @@
 Renat
 Aigul
-Dima
+Dima.
