@@ -1,4 +1,3 @@
 Renat
 Aigul
-Dima.
-sxos,xosxs
+Dima
