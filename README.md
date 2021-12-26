@@ -1,3 +1,2 @@
 Renat
 Aigul
-Dima
